@@ -1,0 +1,75 @@
+[
+    {
+      "name": "Serena Williams",
+      "sport": "Tennis",
+      "image": "/logo.png",
+      "achievement": "23 Grand Slam singles titles, most by any woman in the Open Era",
+      "challenge": "Racial prejudice and sexism throughout her career",
+      "quote": "The success of our careers is not built by ourselves. It is built by all the people who support us - the coaches, the parents, the friends, the mentors. You need a village."
+    },
+    {
+      "name": "Michael Jordan",
+      "sport": "Basketball",
+      "image": "/logo.png",
+      "achievement": "Widely regarded as the greatest basketball player of all time",
+      "challenge": "Cut from his high school basketball team in his sophomore year",
+      "quote": "I've missed more than 9000 shots in my career. I've lost almost 300 games. 26 times, I've been trusted to take the game winning shot and missed. I fail all the time. That's why I succeed."
+    },
+    {
+      "name": "Simone Biles",
+      "sport": "Gymnastics",
+      "image": "/logo.png",
+      "achievement": "Most decorated gymnast in World Championship history",
+      "challenge": "Opened up about her struggles with mental health",
+      "quote": "I wasn't born fearless. I take a deep breath and I tell myself 'You got this.'"
+    },
+    {
+      "name": "Lionel Messi",
+      "sport": "Football (Soccer)",
+      "image": "/logo.png", 
+      "achievement": "Seven-time Ballon d'Or winner, most in history",
+      "challenge": "Growth hormone deficiency in his childhood",
+      "quote": "You have to fight to reach your dream. You have to sacrifice and work hard to achieve it."
+    },
+    {
+      "name": "Stephen Curry",
+      "sport": "Basketball",
+      "image": "/logo.png",
+      "achievement": "Revolutionized the game of basketball with his long-range shooting",
+      "challenge": "Doubted early in his career for his slender frame",
+      "quote": "I don't try to avoid the hard work. I run towards it."
+    },
+    {
+        "name": "Usain Bolt",
+        "sport": "Track and Field",
+        "image": "/logo.png",
+        "achievement": "Eight-time Olympic gold medalist, holder of several world records",
+        "challenge": "Overcame a scoliosis diagnosis in his childhood",
+        "quote": "Anything is possible if you set your mind to it and put in the hard work."
+      },
+      {
+        "name": "Wilma Rudolph",
+        "sport": "Track and Field",
+        "image": "/logo.png",
+        "achievement": "Overcame polio as a child to win three gold medals at the 1960 Olympics",
+        "challenge": "Polio left her partially paralyzed as a child",
+        "quote": "The world breaks everyone, and afterward, some are strong at the broken places."
+      },
+      {
+        "name": "Tom Brady",
+        "sport": "American Football",
+        "image": "/logo.png",
+        "achievement": "Seven-time Super Bowl champion, most by any player",
+        "challenge": "Drafted in the sixth round despite his talent",
+        "quote": "There's nothing wrong with being doubted. In fact, it can be a great motivator."
+      },
+      {
+        "name": "Michelle Kwan",
+        "sport": "Figure Skating",
+        "image": "/logo.png", 
+        "achievement": "Five-time World Champion and nine-time US National Champion",
+        "challenge": "Overcame chronic asthma throughout her career",
+        "quote": "Challenges are what make life interesting. Overcoming them is what makes life meaningful."
+      }
+  ]
+  

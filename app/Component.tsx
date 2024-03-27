@@ -23,13 +23,13 @@ const Header = () => {
           <a href="/">Home</a>
         </li>
         <li className="hover:text-gray-400">
-          <a href="/about">About</a>
+          <a href="/Stories">Stories</a>
         </li>
         <li className="hover:text-gray-400">
-          <a href="/">Sales</a>
+          <a href="/Sales">Sales</a>
         </li>
         <li className="hover:text-gray-400">
-          <a href="/contact">Contact</a>
+          <a href="/Contact">Contact</a>
         </li>
       </nav>
       <div className="flex-row items-center flex space-x-5 pl-40">
